@@ -1,0 +1,16 @@
+.size-up {
+    font-size: 200%;
+}
+
+.title-year {
+    display: flex;
+    justify-content: space-between;
+}
+/* .icon-text {
+    display: flex !important; 
+    flex-direction: row !important;
+}
+
+.icon-text div{
+    margin-left: 15px !important;
+} */
